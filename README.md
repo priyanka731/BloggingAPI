@@ -74,5 +74,3 @@ The database design for the Blogging Platform API follows the object-relational 
 ## Project Summary
 The Blogger Web Application is a full-stack web application that allows users to create, read, update, and delete blog posts and comments. It also allows users to follow other users and view their blog posts. The application uses Spring Boot, Spring MVC, and Spring Data JPA to implement the backend, and MySQL for the database. Swagger is used for API documentation.
 
-## Deployment
-The application has been deployed on an AWS EC2 instance and can be accessed using the following URL: http://3.7.73.195:8080/swagger-ui/index.html#/
